@@ -1,0 +1,40 @@
+.search {
+ font-size: 18px;
+ background-color: rgb(171, 156, 133);
+}
+.search:hover {
+    background-color: rgb(160, 220, 160);
+}
+.search-bar {
+    font-size: 18px;
+    width:40%
+}
+.btn {
+    font-size: 16px;
+    color:rgb(224, 93, 134);
+    background-color: rgb(189, 195, 195);
+    position:relative;
+    left: 40%;
+}
+.btn:hover {
+    background-color: beige;
+}
+.button {
+    background-color: brown;
+}
+.fav {
+background-color: rgb(93, 122, 93);
+color: beige;
+}
+.remove {
+background-color: rgb(238, 104, 104);
+}
+.back {
+    font-size: 16px;
+    top: 10px;
+    background-color:rgb(237, 159, 104)
+}
+.back:hover {
+    background-color: rgb(218, 103, 103);
+    
+}

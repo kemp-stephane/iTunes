@@ -1,0 +1,9 @@
+/* App styling */
+.App {
+  text-align: center;
+  font-size: 17px;
+  min-height: 100vh;
+  background-image: url("pic.webp");
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+} 
